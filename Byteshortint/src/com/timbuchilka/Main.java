@@ -6,7 +6,7 @@ public class Main {
     {
         int myvalue=1000;
         int mytotal=(myvalue/2);
-    byte myfirstvalue =10;
+    byte myfirstvalue =12;
     byte myfirstbytevalue = (byte)(myfirstvalue/2);
     short mysecondvalue= 13;
     System.out.println("mytotalvalue="+mytotal);
